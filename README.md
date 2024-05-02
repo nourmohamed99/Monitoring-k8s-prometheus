@@ -194,14 +194,16 @@ kubectl get secret --namespace default grafana -o jsonpath="{.data.admin-passwor
 
 ### Monitoring cluster through Prometheus
 
-- Select status ---> targets  
+- Select status ---> targets
+
 ![image](https://github.com/nourmohamed99/Monitoring-k8s-prometheus/assets/88977873/b7df6078-f6dd-4010-b4d4-cf44df32160b)
 
 - Select Graph
 - Run some queries to retrieve metric data about your new server:
 ```
 up
-``` 
+```
+
 ![image](https://github.com/nourmohamed99/Monitoring-k8s-prometheus/assets/88977873/84665833-7e74-45e1-b3ea-42141dcf92e2)
 
 ### Monitoring cluster through Grafana
