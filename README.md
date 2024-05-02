@@ -213,10 +213,9 @@ up
 -  add prometheus server url ---> save & test
 
 - Menu ---> Dashboards ---> Dashboards ---> import dashboard
-- add url
+- add url, then load
 ```
 3662
 ```
-then load 
 
 ![image](https://github.com/nourmohamed99/Monitoring-k8s-prometheus/assets/88977873/ce79e522-37ff-4885-8fd0-dc1e46a66c25)
