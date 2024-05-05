@@ -1,5 +1,10 @@
 # Monitoring kubernetes cluster using prometheus 
 
+
+
+This project aims to set up a comprehensive monitoring solution for a Kubernetes cluster using Minikube, Prometheus, and Grafana. It provides a straightforward way to monitor the health and performance of a local Kubernetes cluster.
+
+
 In this project, we will install Docker, Kubernetes (minikube & kubectl), Helm, Prometheus, and Grafana from scratch on a centos 9 machine. 
 Use Prometheus to monitor the Kubernetes cluster.
 
